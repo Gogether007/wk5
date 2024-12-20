@@ -1,13 +1,7 @@
-"use strict"
-console.log("hello worl!")
-let myName="christina"
-console.log ("goodbye!")
+"use strict";
+console.log("hello world!");
+let myName = "christina";
+console.log("goodbye!");
+let fullname= 
+function caculate() {}
 
-
-function caculate{}()
-let f 
-       
-    
-        
-
-console.log
